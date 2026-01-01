@@ -15,3 +15,4 @@ print(str1.capitalize())
 print(str1.find("Kumar"))
 
 print(str1.lower())
+
