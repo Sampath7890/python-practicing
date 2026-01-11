@@ -39,9 +39,9 @@
 
 def num_function(n):
     if(n%2==0) :
-        print("odd")
+        print("even")
     else:
-        print("even")    
+        print("odd")    
 
 
 num_function(5)
